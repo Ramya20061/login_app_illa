@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093493786177",
+    "project_id": "login-app-36b87",
+    "storage_bucket": "login-app-36b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093493786177:android:ade7c38fa01559b16968c0",
+        "android_client_info": {
+          "package_name": "com.hnccbits.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093493786177-p41tprctnkbc5cof34qstbop4tl5k70m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SZqlbluQRtvn2tVWczWw4FvLPvA1kKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093493786177-p41tprctnkbc5cof34qstbop4tl5k70m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

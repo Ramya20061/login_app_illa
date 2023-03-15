@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="password_condition">Password must be 7 Characters with 1UpperCase Alphabet and 1SpecialCharacter and Numeric</string>
+    <string name="login">Login</string>
+    <string name="user_name_condition">User name must be 10 characters long</string>
+    <string name="enter_valid_password">Enter a valid password</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_city">Sort By City</string>
+    <string name="sort_by_age">Sory By Age</string>
+    <string name="name">Name</string>
+    <string name="colon_seperation">:</string>
+    <string name="email">Email</string>
+    <string name="city">City</string>
+    <string name="age">Age</string>
+</resources>
